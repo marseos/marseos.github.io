@@ -1,0 +1,1 @@
+.logo-wrap{margin:0 auto;width:100%;padding:0px;align-items:center;justify-content:center;display:flex;flex-wrap:wrap}#float{position:relative;animation:floatBubble 2s ease-out normal}@keyframes floatBubble{0%{top:200px}to{top:0px}}
